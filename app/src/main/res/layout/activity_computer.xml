@@ -14,6 +14,7 @@
         android:layout_marginStart="130dp"
         android:layout_marginTop="48dp"
         android:text="Proccessor"
+        android:backgroundTint="#bbbbbb"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button_motherboard"
         tools:ignore="MissingConstraints" />
@@ -25,6 +26,7 @@
         android:layout_marginStart="130dp"
         android:layout_marginTop="100dp"
         android:text="Motherboard"
+        android:backgroundTint="#bbbbbb"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="MissingConstraints" />
@@ -36,6 +38,7 @@
         android:layout_marginStart="130dp"
         android:layout_marginTop="48dp"
         android:text="Storage"
+        android:backgroundTint="#bbbbbb"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button_ram"
         tools:ignore="MissingConstraints" />
@@ -47,6 +50,7 @@
         android:layout_marginStart="130dp"
         android:layout_marginTop="53dp"
         android:text="Input devices"
+        android:backgroundTint="#bbbbbb"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button_storage"
         tools:ignore="MissingConstraints" />
@@ -58,6 +62,7 @@
         android:layout_marginStart="130dp"
         android:layout_marginTop="52dp"
         android:text="Output Devices"
+        android:backgroundTint="#bbbbbb"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button_input"
         tools:ignore="MissingConstraints" />
@@ -69,6 +74,7 @@
         android:layout_marginStart="130dp"
         android:layout_marginTop="52dp"
         android:text="RAM"
+        android:backgroundTint="#bbbbbb"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button_cpu"
         tools:ignore="MissingConstraints" />
